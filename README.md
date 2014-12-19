@@ -22,3 +22,7 @@ tl;dr not a fan (actual reasons to follow...)
 
 ### 2 Spaced Tabs
 This rule is not meant to be broken.
+
+## TODO
+- add my common jshintrc file to this repo
+- explain why not into coffeescript
